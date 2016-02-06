@@ -1,0 +1,241 @@
+
+html{
+  height: 100%;
+  width: 100%;
+  background:
+    -webkit-linear-gradient(
+      rgba(0, 0, 0, 0.45),
+      rgba(0, 0, 0, 0.45)
+    ),url('images/bg.jpg');
+
+}
+
+
+.main {
+  width: 50%;
+  margin-left: 25%;
+  z-index: 9999;
+  position: absolute;
+}
+
+.nav-bar {
+  border: 2px solid orange;
+  height:70px;
+
+
+}
+
+a {
+
+  margin-left: 260px;
+
+}
+
+.top-buttons {
+margin-left: 441px;
+
+
+}
+.one {
+
+  width: 35px;
+  height:35px;
+  background-image: url('images/facebook.png');
+}
+
+.two {
+  width: 35px;
+  height:35px;
+  background-image: url('images/icon.png');
+
+}
+
+.three {
+  width: 35px;
+  height:35px;
+  background-image: url('images/twitter.png');
+}
+
+.four {
+  width: 35px;
+  height:35px;
+  background-image: url('images/youtube-icon.png');
+}
+
+.long-buttons button {
+height: 25px;
+width:154px;
+padding:6px;
+text-align: center;
+font-size: 10px;
+color: white;
+background-color: #B4292E;
+
+}
+
+.middle-img {
+
+  background-image: url('images/top-image.png');
+  background-size: 129%;
+  background-repeat: no-repeat;
+  height: 250px;
+  margin-top: 30px;
+  background-position-y: -52px;
+  background-position-x: -14;
+  border: 5px solid white;
+}
+
+.peralta {
+width: 300px;
+height: 180px;
+margin-top: 30px;
+padding: 5px;
+
+}
+
+.mid-section {
+  width: 100%;
+  display:block;
+  vertical-align: top;
+}
+
+  .white-block1 {
+
+    margin-top: 50px;
+display: inline-block;
+width: 32.8%;
+background-color: white;
+
+}
+  .white-block2 {
+display: inline-block;
+width: 32.8%;
+background-color: white;
+}
+  .white-block3 {
+width: 32.8%;
+display: inline-block;
+background-color: white;
+}
+
+
+h2 {
+text-align: center;
+  color: #3E3F3A;
+  padding: 2px;
+}
+
+p {
+  line-height: 18px;
+  text-align: left;
+  color: #898989;
+  margin-left: 5px;
+  font-size: 13px;
+  padding: 2px;
+}
+
+.date {
+
+  text-align: left;
+  margin-left: 5px;
+  font-size: 15px;
+  color: #C3C3C3;
+  padding: 2px;
+}
+
+.link {
+margin-left: 48px;
+margin-bottom: 2px;
+color: #B4292E;
+padding: 2px;
+text-decoration: none;
+}
+
+.people {
+
+  width: 100%;
+  height: 100%;
+  margin-top: 25px;
+
+
+}
+
+.co-1 {
+   width: 49%;
+   display: inline-block;
+   vertical-align: top;
+
+
+}
+
+.row1-cal1 {
+
+background-image: url('images/sk8er-4.png');
+width: 32%;
+height: 150px;
+background-size: 283px;
+display: inline-block;
+background-repeat: no-repeat;
+border: 3px solid white;
+background-position-y: -7px;
+background-position-x: -95px;
+
+
+}
+.row1 {
+
+  width: 100%;
+  display:block;
+
+}
+
+.row1-cal2 {
+
+  background-image: url('images/sk8er-3.png');
+
+  width: 32%;
+  height: 150px;
+  background-size: 283px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  border: 3px solid white;
+}
+
+.row-2 {
+
+  background-image: url('images/sk8er-1.png');
+  width: 65.5%;
+  height: 150px;
+  background-size: 416px;
+  display: inline-block;
+  background-repeat: no-repeat;
+  border: 3px solid white;
+  background-position-y: -31px;
+  background-position-x: 0px;
+  margin-top: 5px;
+}
+
+
+.col-2 {
+
+  background-image: url('images/sk8er-2.png');
+  width: 32%;
+  height: 309px;
+  background-repeat: no-repeat;
+  display:inline-block;
+  vertical-align: top;
+  border: 3px solid white;
+
+  background-position-y: -1px;
+  background-position-x: -486px;
+  margin-left: 426px;
+  margin-top: -317px;
+}
+
+
+.names {
+
+  margin-left: -405px;
+  font-size: 30px;
+  color: white;
+}
