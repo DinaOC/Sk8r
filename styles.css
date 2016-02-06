@@ -256,3 +256,16 @@ font-size: 30px;
 .name4 {
   margin-top: 130px;
 }
+
+.skateboards {
+  width: 100%;
+  background-color: white;
+}
+
+.boards img {
+  width: 7.6%;
+  display: inline-block;
+  margin: 2px;
+  padding: 3px;
+
+}
