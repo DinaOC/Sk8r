@@ -28,11 +28,17 @@ html{
 a {
 
   margin-left: 260px;
+  color: white;
+  text-decoration: none;
+  font-size: 12px;
+  font-family: sans-serif;
+  font-weight: lighter;
 
 }
 
 .top-buttons {
-margin-left: 441px;
+margin-left: 475px;
+
 
 
 }
@@ -41,12 +47,22 @@ margin-left: 441px;
   width: 35px;
   height:35px;
   background-image: url('images/facebook.png');
+  background-repeat: no-repeat;
+  background-size: 43px;
+  background-position-y: -5px;
+  background-position-x: -5px;
+
 }
 
 .two {
   width: 35px;
   height:35px;
-  background-image: url('images/icon.png');
+  background-image: url('images/wifi.png');
+  background-repeat: no-repeat;
+  background-size: 43px;
+  background-position-y: -5px;
+  background-position-x: -5px;
+
 
 }
 
@@ -54,20 +70,30 @@ margin-left: 441px;
   width: 35px;
   height:35px;
   background-image: url('images/twitter.png');
+  background-repeat: no-repeat;
+  background-size: 43px;
+  background-position-y: -5px;
+  background-position-x: -5px;
 }
 
 .four {
   width: 35px;
   height:35px;
-  background-image: url('images/youtube-icon.png');
+  background-image: url('images/utube.png');
+  background-repeat: no-repeat;
+  background-size: 43px;
+  background-position-y: -6px;
+  background-position-x: -6px;
 }
 
 .long-buttons button {
 height: 25px;
-width:154px;
+width:154.7px;
 padding:6px;
 text-align: center;
 font-size: 10px;
+font-family: sans-serif;
+font-weight: lighter;
 color: white;
 background-color: #B4292E;
 
@@ -122,6 +148,7 @@ background-color: white;
 
 h2 {
   font-size: 17px;
+  font-family: sans-serif;
   text-align: left;
   color: #3E3F3A;
   padding: 1px;
@@ -130,6 +157,7 @@ h2 {
 }
 
 p {
+  font-family: sans-serif;
   line-height: 15px;
   text-align: left;
   color: #898989;
@@ -169,8 +197,8 @@ text-decoration: none;
    display: inline-block;
    vertical-align: top;
 
-
 }
+
 
 .col-2 {
 
@@ -183,6 +211,13 @@ text-decoration: none;
   border: 3px solid white;
  background-position-y: -1px;
   background-position-x: -486px;
+
+}
+
+.col-2:hover {
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
 
 }
 
@@ -199,10 +234,19 @@ background-position-y: -7px;
 background-position-x: -80px;
 }
 
-.row-one {
+.row1-col1:hover{
 
-  width: 100%;
-  display:block;
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+
+}
+
+
+
+.row-one {
+width: 100%;
+display: block;
 
 }
 
@@ -217,6 +261,13 @@ background-position-x: -80px;
   border: 3px solid white;
 }
 
+.row1-col2:hover {
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+
+}
+
 .row-two {
 
   background-image: url('images/sk8er-1.png');
@@ -229,8 +280,14 @@ background-position-x: -80px;
   background-position-y: -31px;
   background-position-x: 0px;
   margin-top: 5px;
-}
 
+    }
+
+.row-two:hover {
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+}
 
 
 
