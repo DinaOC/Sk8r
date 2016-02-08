@@ -1,0 +1,123 @@
+@media (min-width: 0px) and (max-width:627px){
+
+
+
+.nav-bar {
+  height: 20%;
+}
+
+.top-buttons {
+  width: 100%;
+}
+
+
+.main {
+
+margin-left: 5%;
+width: 90%;
+}
+
+.one, .two, .three, .four{
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  margin-bottom: 5px;
+  margin-left: 20px;
+}
+
+
+.nav-bar a {
+
+  margin-left: 83px;
+}
+
+.long-buttons button {
+
+  width: 84px;
+  margin-left: 5px;
+  font-size: 5px;
+  height: 17px;
+}
+
+.middle-img {
+background-size: 421px;
+  background-position-y: 2px;
+
+
+}
+
+.peralta {
+
+  width:239px;
+  height:138px;
+}
+
+.white-block1, .white-block2, .white-block3 {
+
+  width: 100%;
+  display: block;
+}
+
+.col-1 {
+
+  width: 100%;
+  display: block;
+
+}
+
+.col-2{
+
+  width: 100%;
+  display: block;
+  margin-top: 7px;
+  background-size: 536px;
+  background-position-x: -111px;
+  background-position-y: 7px;
+
+}
+.row1-col1 {
+
+    width: 100%;
+    display: block;
+    background-size: 375px;
+    background-position-x: -4px;
+
+}
+
+.row1-col2 {
+
+    width: 100%;
+    display: block;
+    margin-top: 7px;
+    background-size: 369px;
+    background-position-x: 2px;
+
+}
+
+.people h2 {
+  margin-left: 30px;
+}
+
+.boards img {
+  width: 5.5%;
+  padding: 2px;
+
+}
+
+.social-icons img {
+  margin-left: 3px;
+}
+
+.name, .email, .message, .sub {
+
+  width: 90%;
+}
+
+ {
+
+
+}
+
+
+
+}
