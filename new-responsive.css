@@ -113,10 +113,101 @@ background-size: 421px;
   width: 90%;
 }
 
- {
-
 
 }
+
+@media (min-width: 0px) and (max-width:1024px) {
+
+.main {
+  width: 50%;
+}
+
+.top-buttons {
+  width: 100%;
+}
+
+
+.one, .two, .three, .four{
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  margin-bottom: 5px;
+  margin-left: 20px;
+}
+
+
+.long-buttons button {
+
+  width: 22%;
+  font-size: 5px;
+  height: 17px;
+  font-size: 6px;
+}
+
+.peralta {
+
+  width:239px;
+  height:138px;
+}
+
+.white-block1, .white-block2, .white-block3 {
+
+  width: 100%;
+  display: block;
+}
+
+.col-1 {
+
+  width: 100%;
+  display: block;
+
+}
+
+.col-2{
+
+  width: 100%;
+  display: block;
+  margin-top: 7px;
+  background-size: 536px;
+  background-position-x: -111px;
+  background-position-y: 7px;
+
+}
+.row1-col1 {
+
+    width: 100%;
+    display: block;
+    background-size: 375px;
+    background-position-x: -4px;
+
+}
+
+.row1-col2 {
+
+    width: 100%;
+    display: block;
+    margin-top: 7px;
+    background-size: 369px;
+    background-position-x: 2px;
+
+}
+
+
+.boards img {
+  width: 5.5%;
+  padding: 3px;
+
+}
+
+.social-icons img {
+  margin-left: 3px;
+}
+
+.name, .email, .message, .sub {
+
+  width: 90%;
+}
+
 
 
 
