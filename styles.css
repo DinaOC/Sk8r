@@ -11,6 +11,7 @@ html{
 }
 
 
+
 .main {
   width: 50%;
   margin-left: 25%;
@@ -19,29 +20,32 @@ html{
 }
 
 .nav-bar {
-  border: 2px solid orange;
+
   height:70px;
-
-
 }
 
 a {
 
   margin-left: 260px;
+  margin-top: 10px;
   color: white;
   text-decoration: none;
   font-size: 12px;
   font-family: sans-serif;
   font-weight: lighter;
+  display: inline-block;
+  width: 20%;
 
 }
 
 .top-buttons {
-margin-left: 475px;
-
-
+margin-top: 10px;
+margin-left: 30px;
+display: inline-block;
+width: 30%;
 
 }
+
 .one {
 
   width: 35px;
@@ -358,7 +362,7 @@ width: 6%;
 background-color: #A2A7A8;
 padding: 2px;
 display:inline-block;
-margin-left: 5px;
+margin-left: 57px;
 margin-top: 10px;
 
 }
