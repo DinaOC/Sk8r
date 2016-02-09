@@ -144,6 +144,14 @@ background-size: 421px;
   font-size: 6px;
 }
 
+.middle-img {
+background-size: 421px;
+  background-position-y: 2px;
+
+
+}
+
+
 .peralta {
 
   width:239px;
@@ -169,7 +177,7 @@ background-size: 421px;
   display: block;
   margin-top: 7px;
   background-size: 536px;
-  background-position-x: -111px;
+  background-position-x: -80px;
   background-position-y: 7px;
 
 }
@@ -177,7 +185,7 @@ background-size: 421px;
 
     width: 100%;
     display: block;
-    background-size: 375px;
+    background-size: 386px;
     background-position-x: -4px;
 
 }
@@ -188,7 +196,7 @@ background-size: 421px;
     display: block;
     margin-top: 7px;
     background-size: 369px;
-    background-position-x: 2px;
+    background-position-x: 9px;
 
 }
 
