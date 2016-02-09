@@ -1,0 +1,17 @@
+html{
+  height: 100%;
+  width: 100%;
+  background:
+    -webkit-linear-gradient(
+      rgba(0, 0, 0, 0.45),
+      rgba(0, 0, 0, 0.45)
+    ),url('../images/bg.jpg');
+
+}
+
+.main {
+  width: 50%;
+  margin-left: 25%;
+  z-index: 9999;
+  position: absolute;
+}
